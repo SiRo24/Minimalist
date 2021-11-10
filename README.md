@@ -27,6 +27,6 @@ Forwards and backwards buttons are removed in this skin, its meant to be used wi
 <br>**`layout.css.backdrop-filter.enabled`** ^
 
 2. Type in `about:support` and find the path of your Firefox `Root Directory`.
-3. In there, if not already existing, create a folder called `chrome`. Paste the css file without changing its name
+3. In there, if it doesn't already exist, create a folder called `chrome`. Paste the .css file without changing its name
 4. Restart Firefox and enjoy your new theme!
 
