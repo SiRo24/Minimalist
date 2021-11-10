@@ -13,7 +13,7 @@ Works perfectly fine on the most current Firefox
 <br>Tested on 94.0.1
 
 ## Attention
-Forwards and backwards buttons are removed in this skin, its meant to be used with keyboard mouse shortcuts
+Forwards and backwards buttons are removed in this skin, it's meant to be used with keyboard mouse shortcuts
 <br>(maybe a button version coming in the future)
 <br>
 <br>If you firstly install the theme it might look not as expected, so you have to adjust your Firefox Symbol bar
