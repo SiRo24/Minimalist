@@ -1,5 +1,5 @@
-# Minimalist
-Minimalistic Firefox Theme using userChrome.css (not working currently).
+# Minimalist (not working currently)
+Minimalistic Firefox Theme using userChrome.css.
 
 Save space and only focus on the neccessery things.
 <br>The current Tab title and its favicon are fully displayed alongside the URL bar. 
