@@ -1,5 +1,5 @@
 # Minimalist
-Minimalistic Firefox Theme using userChrome.css.
+Minimalistic Firefox Theme using userChrome.css (not working currently).
 
 Save space and only focus on the neccessery things.
 <br>The current Tab title and its favicon are fully displayed alongside the URL bar. 
@@ -9,8 +9,8 @@ Other tabs only get displayed on hover.
 Tab size increases on hover for better visibility.
 
 ## Compatibility
-Works perfectly fine on the most current Firefox
-<br>Tested on 94.0.1
+Update:
+Even though Firefox added backdrop support by default the blur in this theme doesnt work perfectly.
 
 ## Attention
 Forwards and backwards buttons are removed in this skin, it's meant to be used with keyboard or mouse shortcuts
@@ -23,10 +23,10 @@ Forwards and backwards buttons are removed in this skin, it's meant to be used w
 1. In `about:config` change those values to true:
 
 **`toolkit.legacyUserProfileCustomizations.stylesheets`**  --> (basic support for css)
-<br>**`gfx.webrender.all`** --> (support for background blur features, used in the URL bar and on many websites)
-<br>**`layout.css.backdrop-filter.enabled`** ^
+<br>**`gfx.webrender.all`** --> (support for background blur features in the top bar)
+<br>**`layout.css.backdrop-filter.enabled`** Not necessary Firefox v 103 and above
 
-2. Type in `about:support` and find the path of your Firefox `Root Directory`.
+2. Type in `about:support` and find the path of your Firefox `Profile Directory`.
 3. In there, if it doesn't already exist, create a folder called `chrome`. Paste the .css file without changing its name
 4. Restart Firefox and enjoy your new theme!
 
